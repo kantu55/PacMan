@@ -1,0 +1,9 @@
+﻿  MainGameScene.cpp
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(62): warning C4244: '*=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(70): warning C4244: '*=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  7 of 6260 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    62 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  OpenGL3DTutorial2.vcxproj -> C:\Users\kiurakanta\Desktop\PacMan\Release\OpenGL3DTutorial2.exe

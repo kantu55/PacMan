@@ -1,0 +1,57 @@
+﻿  Actor.cpp
+d:\lesson_3dgame\actiongame\src\actor.cpp(449): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  Astar.cpp
+d:\lesson_3dgame\actiongame\src\astar.cpp(146): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  Audio.cpp
+d:\lesson_3dgame\actiongame\src\audio\audio.cpp(1039): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  BufferObject.cpp
+d:\lesson_3dgame\actiongame\src\bufferobject.cpp(188): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  Collision.cpp
+d:\lesson_3dgame\actiongame\src\collision.cpp(233): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  Enemy.cpp
+d:\lesson_3dgame\actiongame\src\enemy.cpp(1067): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  Font.cpp
+d:\lesson_3dgame\actiongame\src\font.cpp(230): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  FramebufferObject.cpp
+d:\lesson_3dgame\actiongame\src\framebufferobject.cpp(80): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  GameOverScene.cpp
+d:\lesson_3dgame\actiongame\src\gameoverscene.cpp(67): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  GLFWEW.cpp
+d:\lesson_3dgame\actiongame\src\glfwew.cpp(384): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  JizoActor.cpp
+d:\lesson_3dgame\actiongame\src\jizoactor.cpp(35): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  json11.cpp
+d:\lesson_3dgame\actiongame\src\json11\json11.cpp(789): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  Light.cpp
+d:\lesson_3dgame\actiongame\src\light.cpp(126): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  MainGameScene.cpp
+d:\lesson_3dgame\actiongame\src\maingamescene.cpp(804): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  Mesh.cpp
+d:\lesson_3dgame\actiongame\src\mesh.cpp(780): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  OpenGL3DTutorial2.cpp
+d:\lesson_3dgame\actiongame\src\opengl3dtutorial2.cpp(78): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  PlayerActor.cpp
+d:\lesson_3dgame\actiongame\src\playeractor.cpp(379): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  Scene.cpp
+d:\lesson_3dgame\actiongame\src\scene.cpp(260): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  Shader.cpp
+d:\lesson_3dgame\actiongame\src\shader.cpp(438): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  SkeletalMesh.cpp
+d:\lesson_3dgame\actiongame\src\skeletalmesh.cpp(1188): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  コンパイル中...
+  SkeletalMeshActor.cpp
+d:\lesson_3dgame\actiongame\src\skeletalmeshactor.cpp(53): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  Sprite.cpp
+d:\lesson_3dgame\actiongame\src\sprite.cpp(232): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  StatusScene.cpp
+d:\lesson_3dgame\actiongame\src\statusscene.cpp(20): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  stdafx.cpp
+d:\lesson_3dgame\actiongame\src\stdafx.cpp(5): fatal error C1083: プリコンパイル済みヘッダー ファイルを開けません。'x64\Release\OpenGL3DTutorial2.pch':No such file or directory
+  Terrain.cpp
+d:\lesson_3dgame\actiongame\src\terrain.cpp(361): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  Texture.cpp
+d:\lesson_3dgame\actiongame\src\texture.cpp(702): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  TitleScene.cpp
+d:\lesson_3dgame\actiongame\src\titlescene.cpp(96): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  UniformBuffer.cpp
+d:\lesson_3dgame\actiongame\src\uniformbuffer.cpp(94): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?

@@ -1,0 +1,177 @@
+﻿  Actor.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\actor.cpp(147): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\actor.cpp(161): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Astar.cpp
+  Audio.cpp
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(131): warning C4267: '引数': 'size_t' から 'LONG' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(141): error C2672: 'std::min': 一致するオーバーロードされた関数が見つかりませんでした。
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(141): error C2780: '_Ty std::min(std::initializer_list<_Elem>)': 1 引数が必要です - 2 が設定されます。
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(5439): note: 'std::min' の宣言を確認してください
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(141): error C2782: 'const _Ty &std::min(const _Ty &,const _Ty &) noexcept(<expr>)': テンプレート のパラメーター '_Ty' があいまいです。
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(5425): note: 'std::min' の宣言を確認してください
+  c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(141): note: 'size_t' の可能性があります。
+  c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(141): note: または 'uint32_t'
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(141): error C2784: 'const _Ty &std::min(const _Ty &,const _Ty &) noexcept(<expr>)': テンプレート 引数を 'const _Ty &' に対して 'size_t' から減少できませんでした
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(5425): note: 'std::min' の宣言を確認してください
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(141): error C2784: '_Ty std::min(std::initializer_list<_Elem>,_Pr)': テンプレート 引数を 'std::initializer_list<_Elem>' に対して 'uint32_t' から減少できませんでした
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(5415): note: 'std::min' の宣言を確認してください
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(141): error C2780: 'const _Ty &std::min(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)': 3 引数が必要です - 2 が設定されます。
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(5407): note: 'std::min' の宣言を確認してください
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(141): error C2660: 'Audio::Read': 関数に 2 個の引数を指定できません。
+  c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(90): note: 'Audio::Read' の宣言を確認してください
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(181): warning C4267: '引数': 'size_t' から 'LONG' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(182): warning C4267: '引数': 'size_t' から 'DWORD' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(188): warning C4267: '引数': 'size_t' から 'LONG' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(189): warning C4267: '引数': 'size_t' から 'DWORD' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(245): warning C4267: '=': 'size_t' から 'UINT32' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(254): warning C4838: 'unsigned __int64' から 'UINT32' への変換には縮小変換が必要です
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(254): warning C4267: '初期化中': 'size_t' から 'UINT32' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(431): warning C4267: '初期化中': 'size_t' から 'DWORD' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(431): warning C4267: '初期化中': 'size_t' から 'const DWORD' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(441): warning C4267: '引数': 'size_t' から 'LONG' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\audio\audio.cpp(455): warning C4267: '=': 'size_t' から 'UINT32' に変換しました。データが失われているかもしれません。
+  BufferObject.cpp
+  Collision.cpp
+  Enemy.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\enemy.cpp(296): warning C4244: '初期化中': 'T' から 'int' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=float
+          ]
+c:\users\kiurakanta\desktop\pacman\src\enemy.cpp(297): warning C4244: '初期化中': 'T' から 'int' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=float
+          ]
+c:\users\kiurakanta\desktop\pacman\src\enemy.cpp(349): warning C4244: '初期化中': 'T' から 'int' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=float
+          ]
+c:\users\kiurakanta\desktop\pacman\src\enemy.cpp(350): warning C4244: '初期化中': 'T' から 'int' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=float
+          ]
+c:\users\kiurakanta\desktop\pacman\src\enemy.cpp(406): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\enemy.cpp(408): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+  Font.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+  FramebufferObject.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+  GameClearScene.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': マクロが再定義されました。
+  c:\users\kiurakanta\desktop\pacman\packages\nupengl.core.0.1.0.1\build\native\include\glfw\glfw3.h(92): note: 'APIENTRY' の以前の定義を確認してください
+  GameOverScene.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\gameoverscene.cpp(101): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  GateKeeperEnemy.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+  GLFWEW.cpp
+c:\users\kiurakanta\desktop\pacman\src\glfwew.cpp(399): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=float
+          ]
+c:\users\kiurakanta\desktop\pacman\src\glfwew.cpp(400): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=float
+          ]
+  HuntEnemy.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+  JizoActor.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+  json11.cpp
+  Light.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+  LoiteringEnemy.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+  MainGameScene.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(62): warning C4244: '*=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(70): warning C4244: '*=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(265): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(278): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(291): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(303): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(317): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(319): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(326): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(328): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(441): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(443): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(466): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(468): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(475): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(477): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(484): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(486): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(493): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(495): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(502): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(504): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(511): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(513): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(520): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(522): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(529): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(531): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(538): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(540): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(565): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(567): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(574): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(576): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(583): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\users\kiurakanta\desktop\pacman\src\maingamescene.cpp(585): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Mesh.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\mesh.cpp(366): warning C4267: '引数': 'size_t' から 'glm::vec<4,float,0>::length_type' に変換しました。データが失われているかもしれません。
+  OpenGL3DTutorial2.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\opengl3dtutorial2.cpp(39): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\opengl3dtutorial2.cpp(39): warning C4244: '初期化中': 'double' から 'const float' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  コンパイル中...
+  OverlookEnemy.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+  PlayerActor.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+  Scene.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+  Shader.cpp
+c:\users\kiurakanta\desktop\pacman\src\shader.cpp(403): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+  SkeletalMesh.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\skeletalmesh.cpp(263): warning C4244: '初期化中': '__int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\skeletalmesh.cpp(263): warning C4244: '初期化中': '__int64' から 'const int' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\skeletalmesh.cpp(271): warning C4244: '初期化中': '__int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\skeletalmesh.cpp(271): warning C4244: '初期化中': '__int64' から 'const int' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\skeletalmesh.cpp(962): warning C4267: '引数': 'size_t' から 'glm::vec<4,float,0>::length_type' に変換しました。データが失われているかもしれません。
+  SkeletalMeshActor.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+  Sprite.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\sprite.cpp(219): warning C4267: '引数': 'size_t' から 'GLsizei' に変換しました。データが失われているかもしれません。
+  StatusScene.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+  stdafx.cpp
+  Terrain.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+  Texture.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+  TitleScene.cpp
+c:\users\kiurakanta\desktop\pacman\src\texture.h(102): warning C4244: 'return': 'GLsizeiptr' から 'GLint' への変換です。データが失われる可能性があります。
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': マクロが再定義されました。
+  c:\users\kiurakanta\desktop\pacman\packages\nupengl.core.0.1.0.1\build\native\include\glfw\glfw3.h(92): note: 'APIENTRY' の以前の定義を確認してください
+c:\users\kiurakanta\desktop\pacman\src\titlescene.cpp(158): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\titlescene.cpp(158): warning C4244: '初期化中': 'int' から 'const float' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\titlescene.cpp(159): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\titlescene.cpp(159): warning C4244: '初期化中': 'int' から 'const float' への変換です。データが失われる可能性があります。
+c:\users\kiurakanta\desktop\pacman\src\titlescene.cpp(196): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  UniformBuffer.cpp
+  コードを生成中...

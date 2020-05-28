@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\Actor">
+      <UniqueIdentifier>{ba4ab07e-c695-43b1-93c0-74de81d943b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Actor\Enemy">
+      <UniqueIdentifier>{85aeba77-ad1d-477d-9e69-df74eace0403}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Actor\Player">
+      <UniqueIdentifier>{c6798c53-9fb6-4aaf-959a-7de3d5634563}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Scene">
+      <UniqueIdentifier>{389a513a-c2d5-4a39-bade-8fc8aa347bc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Actor">
+      <UniqueIdentifier>{13b103ef-8895-4b27-bede-e7a7bfb747c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Scene">
+      <UniqueIdentifier>{75101c3f-225e-41c4-96b3-f16517b4d564}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Actor\Enemy">
+      <UniqueIdentifier>{a25d1c9a-9acb-4b75-b96e-6cfa4582ac38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Actor\Player">
+      <UniqueIdentifier>{a8ad4eff-e9a1-4ad9-a879-8fcc426bdb80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Actor\Jizo">
+      <UniqueIdentifier>{7cd675b5-f76d-4c27-9832-003fd6aa04fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Actor\Jizo">
+      <UniqueIdentifier>{80898291-eb25-45cf-bcdb-d73a7e538913}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="targetver.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GLFWEW.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GamePad.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\BufferObject.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Texture.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Geometry.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Shader.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Sprite.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Font.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Mesh.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Terrain.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\json11\json11.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Collision.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\SkeletalMesh.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\UniformBuffer.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Audio\Audio.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Light.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\FramebufferObject.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\stdafx.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Astar.h">
+      <Filter>ヘッダー ファイル\Actor\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Actor.h">
+      <Filter>ヘッダー ファイル\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Enemy.h">
+      <Filter>ヘッダー ファイル\Actor\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GameOverScene.h">
+      <Filter>ヘッダー ファイル\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GameClearScene.h">
+      <Filter>ヘッダー ファイル\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GatekeeperEnemy.h">
+      <Filter>ヘッダー ファイル\Actor\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\HuntEnemy.h">
+      <Filter>ヘッダー ファイル\Actor\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\LoiteringEnemy.h">
+      <Filter>ヘッダー ファイル\Actor\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\MainGameScene.h">
+      <Filter>ヘッダー ファイル\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\OverlookEnemy.h">
+      <Filter>ヘッダー ファイル\Actor\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\TitleScene.h">
+      <Filter>ヘッダー ファイル\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\PlayerActor.h">
+      <Filter>ヘッダー ファイル\Actor\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\JizoActor.h">
+      <Filter>ヘッダー ファイル\Actor\Jizo</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\SkeletalMeshActor.h">
+      <Filter>ヘッダー ファイル\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Scene.h">
+      <Filter>ヘッダー ファイル\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\StatusScene.h">
+      <Filter>ヘッダー ファイル\Scene</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Src\OpenGL3DTutorial2.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GLFWEW.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\BufferObject.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Texture.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Shader.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Sprite.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Font.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Mesh.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Terrain.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\json11\json11.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Collision.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SkeletalMesh.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\UniformBuffer.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Audio\Audio.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Light.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\FramebufferObject.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\stdafx.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\LoiteringEnemy.cpp">
+      <Filter>ソース ファイル\Actor\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Enemy.cpp">
+      <Filter>ソース ファイル\Actor\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\HuntEnemy.cpp">
+      <Filter>ソース ファイル\Actor\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GateKeeperEnemy.cpp">
+      <Filter>ソース ファイル\Actor\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\OverlookEnemy.cpp">
+      <Filter>ソース ファイル\Actor\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\PlayerActor.cpp">
+      <Filter>ソース ファイル\Actor\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Actor.cpp">
+      <Filter>ソース ファイル\Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Astar.cpp">
+      <Filter>ソース ファイル\Actor\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scene.cpp">
+      <Filter>ソース ファイル\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GameClearScene.cpp">
+      <Filter>ソース ファイル\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GameOverScene.cpp">
+      <Filter>ソース ファイル\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\MainGameScene.cpp">
+      <Filter>ソース ファイル\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\TitleScene.cpp">
+      <Filter>ソース ファイル\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SkeletalMeshActor.cpp">
+      <Filter>ソース ファイル\Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\JizoActor.cpp">
+      <Filter>ソース ファイル\Actor\Jizo</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\StatusScene.cpp">
+      <Filter>ソース ファイル\Scene</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Res\Sprite.vert">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="Res\Sprite.frag">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="Res\StaticMesh.vert">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="Res\StaticMesh.frag">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="Res\Terrain.vert">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="Res\Terrain.frag">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="Res\Water.frag">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="Res\DepthOfField.vert">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="Res\DepthOfField.frag">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="Res\SkeletalMesh.frag">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="Res\SkeletalMesh.vert">
+      <Filter>リソース ファイル</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Res\OniTitle.tga">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Res\ActionTitleBg.tga">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="Res\ActionTitleBg.dds">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

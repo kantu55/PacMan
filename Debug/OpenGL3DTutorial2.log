@@ -1,0 +1,63 @@
+﻿  Astar.cpp
+  Enemy.cpp
+d:\opengl\stealthgame\src\enemy.cpp(296): warning C4244: '初期化中': 'T' から 'int' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=float
+          ]
+d:\opengl\stealthgame\src\enemy.cpp(297): warning C4244: '初期化中': 'T' から 'int' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=float
+          ]
+d:\opengl\stealthgame\src\enemy.cpp(349): warning C4244: '初期化中': 'T' から 'int' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=float
+          ]
+d:\opengl\stealthgame\src\enemy.cpp(350): warning C4244: '初期化中': 'T' から 'int' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=float
+          ]
+d:\opengl\stealthgame\src\enemy.cpp(406): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+d:\opengl\stealthgame\src\enemy.cpp(408): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+  GLFWEW.cpp
+d:\opengl\stealthgame\src\glfwew.cpp(399): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=float
+          ]
+d:\opengl\stealthgame\src\glfwew.cpp(400): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=float
+          ]
+  GameClearScene.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': マクロが再定義されました。
+  d:\opengl\stealthgame\packages\nupengl.core.0.1.0.1\build\native\include\glfw\glfw3.h(92): note: 'APIENTRY' の以前の定義を確認してください
+  GameOverScene.cpp
+d:\opengl\stealthgame\src\gameoverscene.cpp(101): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  GateKeeperEnemy.cpp
+  HuntEnemy.cpp
+  JizoActor.cpp
+  LoiteringEnemy.cpp
+  MainGameScene.cpp
+d:\opengl\stealthgame\src\maingamescene.cpp(62): warning C4244: '*=': 'float' から 'int' への変換です。データが失われる可能性があります。
+d:\opengl\stealthgame\src\maingamescene.cpp(70): warning C4244: '*=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  OpenGL3DTutorial2.cpp
+d:\opengl\stealthgame\src\opengl3dtutorial2.cpp(39): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+d:\opengl\stealthgame\src\opengl3dtutorial2.cpp(39): warning C4244: '初期化中': 'double' から 'const float' への変換です。データが失われる可能性があります。
+  OverlookEnemy.cpp
+  PlayerActor.cpp
+  StatusScene.cpp
+  TitleScene.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': マクロが再定義されました。
+  d:\opengl\stealthgame\packages\nupengl.core.0.1.0.1\build\native\include\glfw\glfw3.h(92): note: 'APIENTRY' の以前の定義を確認してください
+d:\opengl\stealthgame\src\titlescene.cpp(155): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+d:\opengl\stealthgame\src\titlescene.cpp(155): warning C4244: '初期化中': 'int' から 'const float' への変換です。データが失われる可能性があります。
+d:\opengl\stealthgame\src\titlescene.cpp(156): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+d:\opengl\stealthgame\src\titlescene.cpp(156): warning C4244: '初期化中': 'int' から 'const float' への変換です。データが失われる可能性があります。
+d:\opengl\stealthgame\src\titlescene.cpp(193): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  OpenGL3DTutorial2.vcxproj -> D:\OpenGL\StealthGame\Debug\OpenGL3DTutorial2.exe
